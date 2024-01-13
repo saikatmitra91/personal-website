@@ -1,7 +1,6 @@
 # My personal website
 
 This repo is the source for my blog / website.
-Repo is a fork of https://github.com/timlrx/tailwind-nextjs-starter-blog
 
 ## Quick Start Guide
 
